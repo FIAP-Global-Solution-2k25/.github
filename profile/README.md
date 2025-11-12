@@ -5,4 +5,3 @@ Seja bem-vindo ao repositório referente ao projeto desenvolvido no ano de 2025 
 ## Integrantes do Grupo:
 - Ulisses Ribeiro  
 - Arthur Berlofa Bosi  
-- Danilo Fernandes
